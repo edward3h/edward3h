@@ -1,12 +1,30 @@
-## Welcome to my GitHub page
+## Welcome to my GitHub page 👋
 
 I'm Edward: an experienced **full-stack software engineer**, **Java expert** and **programming mentor**.
 Originally from England, I now live in Massachusetts.
 
 ## Current public projects
 
-* I'm a contributor to and a maintainer of [JTE: Java Template Engine](https://github.com/casid/jte).
-* [KiwiProc](https://github.com/edward3h/kiwiproc) is an annotation processor for Java-SQL integration: done the way I like it!
+* I'm a contributor to and a maintainer of [jte: Java Template Engine](https://github.com/casid/jte).
+* 🥝[KiwiProc](https://github.com/edward3h/kiwiproc) is an annotation processor for Java-SQL integration: done the way I like it!
+
+## Technical Skills
+
+![Java](https://skillicons.dev/icons?i=java)
+![Gradle](https://skillicons.dev/icons?i=gradle)
+![SQL](https://skillicons.dev/icons?i=postgres)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Javascript](https://skillicons.dev/icons?i=js)
+![Typescript](https://skillicons.dev/icons?i=ts)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Spring](https://skillicons.dev/icons?i=spring)
+<img alt="Micronaut" height=48 src="https://objectcomputing.com/files/9316/2275/4423/micronaut_stacked_white.svg">
+<img alt="Groovy" src="https://groovy-lang.org/img/groovy-logo-white.svg" width=48 style="padding-bottom:12">
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![React](https://skillicons.dev/icons?i=react)
+![Svelte](https://skillicons.dev/icons?i=svelte)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ## Open to work
 
