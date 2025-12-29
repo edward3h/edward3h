@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my GitHub page
+
+I'm Edward: an experienced **full-stack software engineer**, **Java expert** and **programming mentor**.
+
 
 <!--
 **edward3h/edward3h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
