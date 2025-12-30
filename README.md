@@ -20,11 +20,13 @@ Originally from England, I now live in Massachusetts.
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Spring](https://skillicons.dev/icons?i=spring)
 <img alt="Micronaut" height=48 src="https://objectcomputing.com/files/9316/2275/4423/micronaut_stacked_white.svg">
-<img alt="Groovy" src="https://groovy-lang.org/img/groovy-logo-white.svg" width=48 style="padding-bottom:12">
+<img alt="Groovy" src="https://groovy-lang.org/img/groovy-logo-white.svg" width=48 style="padding-bottom:12; padding-top:12; background-color:rgb(66, 152, 184); border-radius: 10px;">
 ![Ruby](https://skillicons.dev/icons?i=ruby)
+![Rails](https://skillicons.dev/icons?i=rails)
 ![React](https://skillicons.dev/icons?i=react)
 ![Svelte](https://skillicons.dev/icons?i=svelte)
 ![AWS](https://skillicons.dev/icons?i=aws)
+<img alt="Minecraft" src="minecraft.png" height=48>
 
 ## Open to work
 
