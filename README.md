@@ -19,7 +19,7 @@ Originally from England, I now live in Massachusetts.
 ![Typescript](https://skillicons.dev/icons?i=ts)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Spring](https://skillicons.dev/icons?i=spring)
-<img alt="Micronaut" height=48 src="https://objectcomputing.com/files/9316/2275/4423/micronaut_stacked_white.svg">
+<img alt="Micronaut" height=48 src="https://objectcomputing.com/files/9316/2275/4423/micronaut_stacked_white.svg" style="background-color:black; border-radius:10px">
 <img alt="Groovy" src="https://groovy-lang.org/img/groovy-logo-white.svg" width=48 style="padding-bottom:12; padding-top:12; background-color:rgb(66, 152, 184); border-radius: 10px;">
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
@@ -32,5 +32,7 @@ Originally from England, I now live in Massachusetts.
 
 <a href="https://www.linkedin.com/in/edwardharman/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:jaq+github@ethelred.org?subject=Contact%20via%20GitHub%20Profile"><img alt="Contact by email" src="https://img.shields.io/badge/Contact-Email-A33?style=for-the-badge">
+<a href="mailto:jaq+github@ethelred.org?subject=Contact%20via%20GitHub%20Profile"><img alt="Contact by email" src="https://img.shields.io/badge/Contact-Email-933?style=for-the-badge">
+</a>
+<a href="https://edward3h.github.io/resume/"><img alt="Read resume" src="https://img.shields.io/badge/Read-Resume-393?style=for-the-badge">
 </a>
