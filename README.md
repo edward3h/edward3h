@@ -8,6 +8,12 @@ Originally from England, I now live in Massachusetts.
 * I'm a contributor to and a maintainer of [jte: Java Template Engine](https://github.com/casid/jte).
 * 🥝[KiwiProc](https://github.com/edward3h/kiwiproc) is an annotation processor for Java-SQL integration: done the way I like it!
 
+## Fun and games
+
+* Play a well known card game on [Ethelred Games](https://games.ethelred.org/).
+* I built [a 3-D campaign map](https://gratus-lxix.ordoacerbus.com/) for my wargames club.
+* [minecraft-webhook](https://github.com/edward3h/minecraft-webhook) can tail your Minecraft server, and send events to Discord or MQTT.
+
 ## Technical Skills
 
 ![Java](https://skillicons.dev/icons?i=java)
