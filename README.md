@@ -6,13 +6,22 @@ Originally from England, I now live in Massachusetts.
 ## Current public projects
 
 * I'm a contributor to and a maintainer of [jte: Java Template Engine](https://github.com/casid/jte).
+  * jte converts templates into Java classes at build time, resulting in extremely fast rendering.
+  * My contributions include: overhaul of the Gradle plugin; jte-extension API for adding features
 * 🥝[KiwiProc](https://github.com/edward3h/kiwiproc) is an annotation processor for Java-SQL integration: done the way I like it!
+  * KiwiProc combines type information from a Java interface and SQL query at compile time, giving feedback ASAP. It generates implementations as readable Java source code, using standard JDBC.
 
-## Fun and games
+## Fun and games - technical side projects
 
 * Play a well known card game on [Ethelred Games](https://games.ethelred.org/).
-* I built [a 3-D campaign map](https://gratus-lxix.ordoacerbus.com/) for my wargames club.
+  * Extensible game engine.
+  * Backend: Java, using Javalin, Jackson, Dagger2
+  * Frontend: SvelteKit
+* I built [a 3D campaign map](https://gratus-lxix.ordoacerbus.com/) for my wargames club.
+  * A chance to play with 3D graphics, since that isn't part of my day job.
+  * Typescript, Vite, Babylon.js
 * [minecraft-webhook](https://github.com/edward3h/minecraft-webhook) can tail your Minecraft server, and send events to Discord or MQTT.
+  * Java, using Micronaut, docker-java
 
 ## Technical Skills
 
