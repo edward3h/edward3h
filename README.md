@@ -22,6 +22,7 @@ Originally from England, I now live in Massachusetts.
   * Typescript, Vite, Babylon.js
 * [minecraft-webhook](https://github.com/edward3h/minecraft-webhook) can tail your Minecraft server, and send events to Discord or MQTT.
   * Java, using Micronaut, docker-java
+* [worn-path](https://github.com/edward3h/worn-path) is a Minecraft mod where walking wears away a path.
 
 ## Technical Skills
 
