@@ -44,7 +44,7 @@ Originally from England, I now live in Massachusetts.
 ![AWS](https://skillicons.dev/icons?i=aws)
 <img alt="Minecraft" src="minecraft.png" height=48>
 
-## Open to work
+## Professional Contacts
 
 <a href="https://www.linkedin.com/in/edwardharman/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
